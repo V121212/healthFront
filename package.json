@@ -21,7 +21,7 @@
     "cloudinary": "^2.2.0",
     "concurrently": "^8.2.2",
     "dotenv": "^16.4.5",
-    "react": "^18.2.0",
+    "react": "^16.13.1",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-form": "^4.0.1",
